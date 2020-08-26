@@ -36,7 +36,7 @@
     "@storybook/addon-backgrounds": "^3.4.11",
     "@storybook/addon-info": "^3.4.11",
     "@storybook/addon-links": "^3.4.11",
-    "@storybook/addon-options": "^3.4.11",
+    "@storybook/addon-options": "^5.3.20",
     "@storybook/addons": "^3.4.11",
     "@storybook/react": "^3.4.11",
     "babel-core": "^6.26.3",
